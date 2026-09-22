@@ -33,7 +33,7 @@ I have hands-on experience developing **ESP32- and STM32-based systems** using C
 * Implemented sensor polling, AUTO/MANUAL control logic, safety cutoff, and remote relay control.
 * Built an embedded web dashboard for real-time monitoring and control over Wi-Fi.
 
-🔗 [View Project](#)
+🔗 https://github.com/nguyenththhieu/multi-node-lora-power-environmental-monitoring
 
 ---
 
