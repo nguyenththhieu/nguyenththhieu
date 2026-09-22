@@ -33,7 +33,7 @@ I have hands-on experience developing **ESP32- and STM32-based systems** using C
 * Implemented sensor polling, AUTO/MANUAL control logic, safety cutoff, and remote relay control.
 * Built an embedded web dashboard for real-time monitoring and control over Wi-Fi.
 
-🔗 https://github.com/nguyenththhieu/multi-node-lora-power-environmental-monitoring
+🔗 https://github.com/nguyenththhieu/Multi-Node-IoT-Environmental-Monitoring-System 
 
 ---
 
@@ -46,7 +46,7 @@ I have hands-on experience developing **ESP32- and STM32-based systems** using C
 * Implemented bidirectional UART communication between STM32 and ESP32.
 * Added automatic irrigation, manual control, scheduling, and IoT monitoring.
 
-🔗 [View Project](#)
+🔗 https://github.com/nguyenththhieu/Automated-Plant-Monitoring-Irrigation-System
 
 ---
 
